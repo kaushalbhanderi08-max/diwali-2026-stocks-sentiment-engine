@@ -4,7 +4,7 @@ Welcome to the official repository of the **Diwali 2026 Stock Selection Framewor
 
 ## 🚀 Live Interactive Dashboard
 You can interact with the live dashboard, use dynamic filters, and check real-time data updates here:
-👉 **[Click Here to View the Live Looker Studio Dashboard][(અહીં_તમારા_ડેશબોર્ડની_SHARE_LINK_પેસ્ટ_કરો)](https://datastudio.google.com/reporting/9b588654-d19c-411d-ba92-1c2d5b8cc913)**
+👉 **[Click Here to View the Live Looker Studio Dashboard][(https://datastudio.google.com/reporting/9b588654-d19c-411d-ba92-1c2d5b8cc913)]**
 
 ---
 
